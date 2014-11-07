@@ -1,0 +1,6 @@
+D:\Universidad\8 SEMESTRE\TELEMATICA\C char\AppsPrimeraAplicacion\AppsPrimeraAplicacion\bin\Debug\AppsPrimeraAplicacion.exe.config
+D:\Universidad\8 SEMESTRE\TELEMATICA\C char\AppsPrimeraAplicacion\AppsPrimeraAplicacion\bin\Debug\AppsPrimeraAplicacion.exe
+D:\Universidad\8 SEMESTRE\TELEMATICA\C char\AppsPrimeraAplicacion\AppsPrimeraAplicacion\bin\Debug\AppsPrimeraAplicacion.pdb
+D:\Universidad\8 SEMESTRE\TELEMATICA\C char\AppsPrimeraAplicacion\AppsPrimeraAplicacion\obj\Debug\AppsPrimeraAplicacion.csprojResolveAssemblyReference.cache
+D:\Universidad\8 SEMESTRE\TELEMATICA\C char\AppsPrimeraAplicacion\AppsPrimeraAplicacion\obj\Debug\AppsPrimeraAplicacion.exe
+D:\Universidad\8 SEMESTRE\TELEMATICA\C char\AppsPrimeraAplicacion\AppsPrimeraAplicacion\obj\Debug\AppsPrimeraAplicacion.pdb
